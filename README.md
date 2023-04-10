@@ -35,18 +35,28 @@ I am a Data Scientist from Lebanon and working in Paris
 </div>
 
 ### 🤝 Lets Connect:
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasminahobeika/)
-<p>
+<div align="center">
+  <a href="https://linkedin.com/in/yasminahobeika" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
   <a href="mailto:yasminahobeika@hotmail.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/static/v1?label=Mail&message=yasminahobeika@hotmail.com&style=for-the-badge&color=red&logo=gmail&cacheSeconds=3600&link=mailto:yasminahobeika@hotmail.com" />
   </a>
-</p>
-<p>
+ <a href="https://www.kaggle.com/yasminahobeika" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>  
   <a href="https://github.com/yasminahobeika" target="_blank">
     <img alt="Github" src="https://img.shields.io/static/v1?label=GitHub&message=yasminahobeika&style=for-the-badge&color=black&logo=github&cacheSeconds=3600&link=https://github.com/yasminahobeika" />
   </a>
-</p>
+</div>
 
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasminahobeika&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 </td></tr></table>  
 
