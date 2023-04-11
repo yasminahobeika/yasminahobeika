@@ -6,18 +6,22 @@ I am a Data Scientist from Lebanon and working in Paris
 - :zap: In my free time, I learn new technologies and skills on Coursera and Datacamp :arrow_right: all my certifications [here](https://www.linkedin.com/in/yasminahobeika/details/certifications/)
 
 ## :open_file_folder:My Skills
-- **Programming Languages:** Python (Keras, Scikit-learn, Pandas, TensorFlow, PyTorch...), R, C++, PHP, HTML, CSS, Git
+- **Programming Languages:** Python, R, C++, PHP, HTML, CSS, Git
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+</div>
+
+- **ML/DL Frameworks:** Keras, TensorFlow, PyTorch, Scikit-Learn
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />
 </div>
 
 - **Database Query Languages:** MySQL, PostGreSQL, MongoDB, Spark, Hadoop
