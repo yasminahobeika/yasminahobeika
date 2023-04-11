@@ -1,11 +1,11 @@
-### :woman_technologist: About Me :
+## :woman_technologist: About Me
 I am a Data Scientist from Lebanon and working in Paris
 
 - 🌱 I’m currently a Master student in [Data Sciences and Business Analytics](https://www.linkedin.com/school/essec-centralesupelec-master-data-sciences-business-analytics/?originalSubdomain=fr) at Essec Business School & CentraleSupélec (Université Paris-Saclay) <img src="https://gist.githubusercontent.com/armollica/2d03767d66218066680493b1f16cb21f/raw/b997d659e38095891d4dce2f0b16690d309bf004/platinum-3.png" width="20"> Master ranked [number 4](https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2023) worldwide
 - 📜 I did a bachelor of [Computer and Communications Engineering](https://www.aub.edu.lb/msfea/ece/CCE-BE/Pages/default.aspx) at American University of Beirut
 - :zap: In my free time, I learn new technologies and skills on Coursera and Datacamp :arrow_right: all my certifications [here](https://www.linkedin.com/in/yasminahobeika/details/certifications/)
 
-### :electron: My Skills:
+## :electron: My Skills
 - **Programming Languages:** Python (Keras, Scikit-learn, Pandas, TensorFlow, PyTorch...), R, C++, PHP, HTML, CSS, Git
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
@@ -34,7 +34,7 @@ I am a Data Scientist from Lebanon and working in Paris
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />
 </div>
 
-### 🤝 Lets Connect:
+## 🤝 Lets Connect
 <div align="center">
   <a href="https://linkedin.com/in/yasminahobeika" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
