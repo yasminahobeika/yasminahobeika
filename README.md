@@ -1,8 +1,8 @@
 ## :woman_technologist:About Me
 I am a Data Scientist from Lebanon and working in Paris
 
-- 🌱 I’m currently a Master student in [Data Sciences and Business Analytics](https://www.linkedin.com/school/essec-centralesupelec-master-data-sciences-business-analytics/?originalSubdomain=fr) at Essec Business School & CentraleSupélec (Université Paris-Saclay) <img src="https://gist.githubusercontent.com/armollica/2d03767d66218066680493b1f16cb21f/raw/b997d659e38095891d4dce2f0b16690d309bf004/platinum-3.png" width="20"> Master ranked [number 4](https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2023) worldwide
-- 📜 I did a bachelor of [Computer and Communications Engineering](https://www.aub.edu.lb/msfea/ece/CCE-BE/Pages/default.aspx) at American University of Beirut
+- 🌱 I’m currently a Master student in [Data Sciences and Business Analytics](https://www.linkedin.com/school/essec-centralesupelec-master-data-sciences-business-analytics/?originalSubdomain=fr) at Essec Business School & CentraleSupélec (Université Paris-Saclay) <img src="https://gist.githubusercontent.com/armollica/2d03767d66218066680493b1f16cb21f/raw/b997d659e38095891d4dce2f0b16690d309bf004/platinum-3.png" width="20"> Master ranked [number 4](https://www.topuniversities.com/university-rankings/business-masters-rankings/business-analytics/2023) Worldwide
+- 📜 I did a bachelor of [Computer and Communications Engineering](https://www.aub.edu.lb/msfea/ece/CCE-BE/Pages/default.aspx) at American University of Beirut <img src="https://gist.githubusercontent.com/armollica/2d03767d66218066680493b1f16cb21f/raw/b997d659e38095891d4dce2f0b16690d309bf004/platinum-3.png" width="20"> University ranked [number 2](https://www.topuniversities.com/university-rankings-articles/arab-region-university-rankings/top-universities-arab-region-2021) in the Middle East
 - :zap: In my free time, I learn new technologies and skills on Coursera and Datacamp :arrow_right: all my certifications [here](https://www.linkedin.com/in/yasminahobeika/details/certifications/)
 
 ## :open_file_folder:My Skills
