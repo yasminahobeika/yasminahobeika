@@ -56,7 +56,7 @@ I am a Data Scientist from Lebanon and working in Paris
 
 <br/>  
 
-
+<!--
 ## :bar_chart:Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasminahobeika&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -74,7 +74,6 @@ I am a Data Scientist from Lebanon and working in Paris
 <br/>  
 
 
-<!--
 **yasminahobeika/yasminahobeika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
